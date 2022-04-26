@@ -1,5 +1,5 @@
 ![xx](assets/banner.png)
-# Virtual Engine · BlackBox
+# Virtual Engine · BlackBoxPro
 > The only people who have anything to fear from free software are those whose products are worth even less. 
 >
 > <p align="right">——David Emery</p>
